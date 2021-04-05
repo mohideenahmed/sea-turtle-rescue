@@ -1,2 +1,0 @@
-Employee A |hartford|123-456-6789
-Employee B |stamford|123-456-0000
